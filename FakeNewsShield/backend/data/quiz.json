@@ -1,0 +1,22 @@
+[
+  { "id": 1, "question": "What should you do before sharing a suspicious news story?",
+    "options": ["Share it immediately", "Check the original source", "Add more dramatic wording", "Forward it to everyone"], "correct": 1 },
+  { "id": 2, "question": "Why is checking the publication date important?",
+    "options": ["Old news can be presented as a new event", "Dates make websites look professional", "Dates are not important", "It helps increase social media shares"], "correct": 0 },
+  { "id": 3, "question": "What is a good way to verify an important claim?",
+    "options": ["Trust the first post you see", "Check how many likes it has", "Compare information from multiple reliable sources", "Forward it to friends"], "correct": 2 },
+  { "id": 4, "question": "Which is an example of clickbait?",
+    "options": ["Government releases annual report", "Scientists publish research findings", "You won't believe what happens next!", "Weather forecast for Monday"], "correct": 2 },
+  { "id": 5, "question": "Why should emotional language make you pause?",
+    "options": ["It always means the information is false", "It may be designed to trigger a quick reaction", "It makes information more accurate", "It proves that the author is an expert"], "correct": 1 },
+  { "id": 6, "question": "What should you do when you see a suspicious image online?",
+    "options": ["Immediately share it", "Assume it is recent", "Check its original context and source", "Ignore all images"], "correct": 2 },
+  { "id": 7, "question": "Which statement is a fact rather than an opinion?",
+    "options": ["This is the best news channel", "I think this story is boring", "The report was published on Monday", "Everyone should like this article"], "correct": 2 },
+  { "id": 8, "question": "What should you do before forwarding a message on WhatsApp?",
+    "options": ["Forward it quickly", "Check whether the information is reliable", "Add more people to the group", "Remove the original source"], "correct": 1 },
+  { "id": 9, "question": "Why can social media contribute to misinformation?",
+    "options": ["False information can spread quickly", "Everything on social media is false", "Social media cannot contain reliable information", "Social media automatically verifies every post"], "correct": 0 },
+  { "id": 10, "question": "What is the most responsible approach to information sharing?",
+    "options": ["Share everything that sounds interesting", "Share only information that gets many likes", "Pause, verify and think before sharing", "Never read news"], "correct": 2 }
+]
