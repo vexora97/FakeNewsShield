@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1791460162254,
+    "name": "shruti",
+    "email": "shruti@gmail.com",
+    "platform": "WhatsApp",
+    "news": "lottery money",
+    "reason": "never bought a lottery ticket",
+    "submittedAt": "2026-10-08T11:49:22.254Z"
+  },
+  {
+    "id": 1791575956743,
+    "name": "Test User",
+    "email": "[test@example.com](mailto:test@example.com)",
+    "platform": "WhatsApp",
+    "news": "A test message claiming that schools are closed tomorrow.",
+    "reason": "Testing the suspicious news reporting feature.",
+    "submittedAt": "2026-10-09T19:59:16.743Z"
+  },
+  {
+    "id": 1791577325709,
+    "name": "Priya",
+    "email": "priya@gmail.com",
+    "platform": "WhatsApp",
+    "news": "A scam message about scholarships",
+    "reason": "free of cost scholarships having suspicious documentation",
+    "submittedAt": "2026-10-09T20:22:05.709Z"
+  },
+  {
+    "id": 1791606346735,
+    "name": "Isabella",
+    "email": "isa123@gmail.com",
+    "platform": "Facebook",
+    "news": "fake photo",
+    "reason": "morphed photograph",
+    "submittedAt": "2026-10-10T04:25:46.735Z"
+  },
+  {
+    "id": 1791606410754,
+    "name": "raj",
+    "email": "r1234@gmail.com",
+    "platform": "YouTube",
+    "news": "video link",
+    "reason": "suspicious video link",
+    "submittedAt": "2026-10-10T04:26:50.754Z"
+  }
+]

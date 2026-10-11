@@ -15,7 +15,7 @@ app.use(express.json());
 app.use("/api", quizRoutes);
 app.use("/api", reportRoutes);
 
-const angularFolder = path.join(__dirname, "../frontend/dist/frontend/browser");
+const angularFolder = path.join(__dirname, "../../frontend/dist/frontend/browser");
 if (fs.existsSync(angularFolder)) {
   app.use(express.static(angularFolder));
   app.use((req, res) => res.sendFile(path.join(angularFolder, "index.html")));
